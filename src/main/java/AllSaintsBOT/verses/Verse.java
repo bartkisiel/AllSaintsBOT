@@ -1,3 +1,7 @@
+package AllSaintsBOT.verses;
+
+import AllSaintsBOT.AllSaintsBOT;
+
 public class Verse {
     private int id;
     private static final String imageAdress = "https://i1.wp.com/transformedblog.westernseminary.edu/wp-content/uploads/2012/05/Bible2.jpg?fit=750%2C500&ssl=1";

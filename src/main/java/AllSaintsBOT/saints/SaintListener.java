@@ -1,3 +1,5 @@
+package AllSaintsBOT.saints;
+
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
@@ -16,7 +18,7 @@ public class SaintListener extends ListenerAdapter {
     public List<Saint> saints = new ArrayList<>();
 
     public SaintListener(List<Saint> saints) {
-        this.saints = Saint.SaintsData.saintsAdder(saints);
+        this.saints = SaintsData.saintsAdder(saints);
 
     }
 

@@ -1,3 +1,7 @@
+package AllSaintsBOT.verses;
+
+import AllSaintsBOT.AllSaintsBOT;
+
 import java.util.List;
 
 public class VerseData {

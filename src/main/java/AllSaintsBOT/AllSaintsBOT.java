@@ -1,4 +1,10 @@
+package AllSaintsBOT;
 
+import AllSaintsBOT.saints.Saint;
+import AllSaintsBOT.saints.SaintListener;
+import AllSaintsBOT.verses.Verse;
+import AllSaintsBOT.verses.VerseData;
+import AllSaintsBOT.verses.VerseListener;
 import net.dv8tion.jda.api.AccountType;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
