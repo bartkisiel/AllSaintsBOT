@@ -25,7 +25,7 @@ public class VerseListener extends ListenerAdapter {
     public void onMessageReceived(MessageReceivedEvent event) {
         EmbedBuilder embedBuilder = new EmbedBuilder();
         Random random = new Random();
-        int randomNumber = random.nextInt(60) + 1;
+        int randomNumber = random.nextInt(verses.size()) + 1;
         Optional<Verse> result = verses
                 .stream()
                 .filter(v -> v.getId() == randomNumber)
