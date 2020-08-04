@@ -14,6 +14,7 @@ Data and commands are in 🇵🇱Polish, so for non-polish speakers this is only
 More commands are to be added soon...
 
 ## What does it look like? 
+<div style="text-align:center"><img src="https://media.discordapp.net/attachments/735277344993968250/735277713908301834/Zrzut_ekranu_2020-07-22_o_01.07.22.png" /></div>
 <div style="text-align:center"><img src="https://media.discordapp.net/attachments/735277344993968250/735277710078640239/Zrzut_ekranu_2020-07-22_o_01.07.46.png?width=486&height=468" /></div>
 <div style="text-align:center"><img src="https://media.discordapp.net/attachments/735277344993968250/735277726663049216/Zrzut_ekranu_2020-07-22_o_01.07.59.png?width=482&height=468" /></div>
 
