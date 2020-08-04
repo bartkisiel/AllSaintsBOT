@@ -2,18 +2,24 @@
 
 All Saints Bot is written in Java Discord bot which sends random Bible verses and Catholic Saint brief biography for every day in accordance with church calendar.
 
-## [Language]
+
+
+
+
+
+
+## Language
 
 Data and commands are in 🇵🇱Polish, so for non-polish speakers this is only for presentation.
 
-## [Commands]
+## Commands
 
 * ✝️ !werset to display Bible verse (character size doesn't matter)
 * ✝️ !swiety to display Catholic Saint (character size doesn't matter)
 
 More commands are to be added soon...
 
-## [Add bot to your server]
+## Add bot to your server
 
 [Invitation Link] (https://discord.com/api/oauth2/authorize?client_id=734525907682984017&permissions=0&scope=bot)
 
