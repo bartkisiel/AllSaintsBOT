@@ -37,7 +37,7 @@ public class SaintListener extends ListenerAdapter {
             return;
         }
 
-        if(event.getMessage().getContentRaw().equals("!swiety")) {
+        if(event.getMessage().getContentRaw().equalsIgnoreCase("!swiety")) {
                 embedBuilder.setColor(0x66d8ff);
 
                 if(todaySaint.isFemale() == false){
