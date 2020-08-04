@@ -37,7 +37,7 @@ public class VerseListener extends ListenerAdapter {
             return;
         }
 
-        if (event.getMessage().getContentRaw().equals("!werset")) {
+         if (event.getMessage().getContentRaw().equalsIgnoreCase("!werset")) {
             if(verse == null) {
                 embedBuilder.setDescription("We couldn't find a verse for you, please try again...");
             }
