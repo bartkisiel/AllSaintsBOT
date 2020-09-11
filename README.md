@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://scontent-waw1-1.xx.fbcdn.net/v/t31.0-8/p960x960/16423050_240961743019863_6561533960308524700_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=7ldUHeHzt5AAX_bIILL&_nc_ht=scontent-waw1-1.xx&_nc_tp=6&oh=f2e15f7e11ad88ae7aa3bd9b57a88a59&oe=5F4F75AE">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://i.pinimg.com/originals/bf/e9/d4/bfe9d473302f1242a798efb6220938be.jpg">
 
 All Saints Bot is written in Java Discord bot which sends random Bible verses and Catholic Saint brief biography for every day in accordance with church calendar.
 
